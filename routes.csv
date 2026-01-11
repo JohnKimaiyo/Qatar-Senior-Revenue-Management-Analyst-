@@ -1,0 +1,9 @@
+origin,destination,region,hub_flag,route_id
+DOH,LHR,Europe,1,1
+DOH,JFK,North America,1,2
+DOH,NBO,Africa,1,3
+DOH,DEL,Asia,1,4
+DOH,BKK,Asia,1,5
+DOH,FRA,Europe,1,6
+DOH,DXB,Middle East,0,7
+DOH,CAI,Africa,1,8

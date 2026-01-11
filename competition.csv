@@ -1,0 +1,25 @@
+route_id,competitor,avg_competitor_fare,market_share
+1,Emirates,1121.76,0.17
+1,Turkish Airlines,415.18,0.4
+1,Ethiopian Airlines,667.46,0.26
+2,Emirates,1124.25,0.38
+2,Turkish Airlines,727.99,0.13
+2,Ethiopian Airlines,858.25,0.17
+3,Emirates,513.97,0.33
+3,Turkish Airlines,557.41,0.18
+3,Ethiopian Airlines,690.6,0.34
+4,Emirates,421.04,0.13
+4,Turkish Airlines,1045.13,0.27
+4,Ethiopian Airlines,586.04,0.13
+5,Emirates,1046.12,0.18
+5,Turkish Airlines,1133.92,0.29
+5,Ethiopian Airlines,1077.37,0.13
+6,Emirates,782.57,0.25
+6,Turkish Airlines,612.06,0.44
+6,Ethiopian Airlines,1055.26,0.14
+7,Emirates,1125.65,0.37
+7,Turkish Airlines,910.48,0.12
+7,Ethiopian Airlines,926.4,0.31
+8,Emirates,1023.68,0.45
+8,Turkish Airlines,1018.89,0.16
+8,Ethiopian Airlines,1137.6,0.36
